@@ -1,1 +1,2 @@
 This is some text
+Added some text for 1.3
